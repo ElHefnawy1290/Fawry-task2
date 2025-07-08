@@ -1,5 +1,0 @@
-# 0 "C:/Users/AMR/Programming/Fawry_Task2/Services.cpp"
-# 1 "C:\\Users\\AMR\\Programming\\Fawry_Task2\\cmake-build-debug//"
-# 0 "<built-in>"
-# 0 "<command-line>"
-# 1 "C:/Users/AMR/Programming/Fawry_Task2/Services.cpp"
