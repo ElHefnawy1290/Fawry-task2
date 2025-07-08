@@ -9,7 +9,7 @@
 #include "Book.h"
 #include "Services.h"
 
-int getCurrentYear() {
+inline int getCurrentYear() {
     time_t now = time(0);
     tm *ltm = localtime(&now);
     return 1900 + ltm->tm_year;
